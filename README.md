@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kratikaa04
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning c++, python, dsa
+- 🌱 I’m currently learning c++, python, dsa, Java
 - 💞️ I’m looking to collaborate on new projects which involves c++
 - 📫 reach me through my email: kratikabansal016@gmail.com
 - 📫 reach me through my linkedin: https://www.linkedin.com/in/kratika-bansal-24428a27b/
